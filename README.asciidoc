@@ -1,0 +1,18 @@
+= About SimpleIntent
+
+This project demonstrates how to use an implicit Intent to launch an
+external bar code scanning application and retrieve the decoded data.
+
+For this demo to work correctly, your Android device must have the
+ZXing barcode scanning app installed. See http://code.google.com/p/zxing/
+for more information on ZXing, and a link to the app on Google Play.
+
+This code was developed to support Marakana's Android Training courses.
+
+For more info, see http://marakana.com/training/android/
+
+== Legal
+
+Please see ++NOTICE++ file in this directory for copyright, license terms, and legal disclaimers.
+
+Copyright © 2012 Marakana Inc.
